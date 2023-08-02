@@ -1,0 +1,2 @@
+class CommentEntry < ApplicationRecord
+end
